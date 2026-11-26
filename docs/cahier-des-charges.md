@@ -243,7 +243,7 @@ Le socle proposé tient compte des compétences Java, Spring et React déjà mob
 | Interface | React avec TypeScript | Parcours citoyens et espace de gestion responsive |
 | Serveur | Java et Spring Boot | API REST, validation, permissions et règles métier |
 | Données | PostgreSQL ; extension géographique si nécessaire | Persistance et recherche de proximité |
-| Fichiers | Stockage objet ou volume persistant protégé, derrière une abstraction | Photos et versions publiable |
+| Fichiers | Stockage objet ou volume persistant protégé, derrière une abstraction | Photos et versions publiables |
 | Sécurité | Spring Security et sessions sécurisées | Authentification interne et autorisations |
 | Migrations | Flyway | Évolution reproductible du schéma |
 | Carte | Leaflet et fournisseur de fonds de carte interchangeable | Affichage des positions |
