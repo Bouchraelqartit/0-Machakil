@@ -8,7 +8,7 @@ L'objectif est de livrer un produit fonctionnel et présentable à une collectiv
 
 # 1 Objectifs du produit
 
-Le signalement doit être simple sur téléphone. Le citoyen peut signaler un dysfonctionnement de l'espace public sans connaître à l'avance le service compétent et sans créer obligatoirement un compte.
+Le signalement doit être simple sur téléphone. Le citoyen peut signaler un dysfonctionnement de l'espace public sans connaître à l'avance le service compétent et sans créer obligatoirement un compte.  
 
 Les responsables doivent disposer d'un point central pour localiser les problèmes, distinguer les doublons, affecter les interventions et conserver l'historique. Les habitants doivent pouvoir consulter les informations validées et les résultats.
 
