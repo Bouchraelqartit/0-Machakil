@@ -1,0 +1,69 @@
+{
+  "note": "Catalogue de départ. Les traductions arabes et les services responsables seront renseignés avec le partenaire ; aucune compétence institutionnelle n'est présumée.",
+  "categories": [
+    {
+      "code": "VOIRIE",
+      "labelFr": "Voirie et trottoirs",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Trou, chaussée dégradée, trottoir abîmé"
+    },
+    {
+      "code": "ECLAIRAGE",
+      "labelFr": "Éclairage public",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Lampadaire éteint ou endommagé"
+    },
+    {
+      "code": "PROPRETE",
+      "labelFr": "Propreté et déchets",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Dépôt sauvage ou poubelle débordante"
+    },
+    {
+      "code": "EAU_ASSAINISSEMENT",
+      "labelFr": "Eau et assainissement",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Fuite visible ou évacuation obstruée"
+    },
+    {
+      "code": "MOBILIER_SIGNALISATION",
+      "labelFr": "Mobilier et signalisation",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Banc ou panneau dégradé"
+    },
+    {
+      "code": "ACCESSIBILITE",
+      "labelFr": "Accessibilité",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Rampe ou passage public inutilisable"
+    },
+    {
+      "code": "ESPACES_VERTS",
+      "labelFr": "Espaces verts",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Dégradation ou obstacle dans un espace vert public"
+    },
+    {
+      "code": "AUTRE",
+      "labelFr": "Autre problème de l'espace public",
+      "labelAr": null,
+      "active": true,
+      "suggestedServiceCode": null,
+      "examples": "Description d'au moins 20 caractères à qualifier"
+    }
+  ]
+}
