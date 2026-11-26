@@ -1,6 +1,6 @@
 # 0machakil
 
-Plateforme citoyenne de signalement et de suivi des problèmes de l'espace public.
+Plateforme citoyenne de signalement et de suivi des problèmes de l’espace public.
 
 ## Équipe
 
@@ -10,7 +10,7 @@ Bouchra, Sarra et Khalid - développement full-stack.
 
 Choisir une catégorie, ajouter une photo et une position, envoyer le signalement et suivre son traitement. Le gestionnaire vérifie, oriente vers le service référent, affecte une intervention et valide la résolution.
 
-Catégories initiales : voirie et trottoirs, éclairage public, propreté et déchets, eau et assainissement, mobilier et signalisation, accessibilité, espaces verts et autres problèmes de l'espace public.
+Catégories initiales : voirie et trottoirs, éclairage public, propreté et déchets, eau et assainissement, mobilier et signalisation, accessibilité, espaces verts et autres problèmes de l’espace public.
 
 ## Documentation
 
@@ -41,8 +41,8 @@ Ces liens documentaires ne prouvent pas une synchronisation automatique entre Gi
 
 ## État du démarrage
 
-Ce premier contenu prépare le travail et la documentation. Le backend, le frontend et leurs commandes exactes de lancement restent à générer dans les premiers tickets. Aucune application fonctionnelle n'est annoncée à ce stade.
+Ce premier contenu prépare le travail et la documentation. Le backend, le frontend et leurs commandes exactes de lancement restent à générer dans les premiers tickets. Aucune application fonctionnelle n’est annoncée à ce stade.
 
 ## Démonstration
 
-La V1 cible deux semaines, en deux sprints d'une semaine. Elle sera présentée avec des données fictives. Aucun partenariat institutionnel n'est actuellement établi.
+La V1 cible deux semaines, en deux sprints d’une semaine. Elle sera présentée avec des données fictives. Aucun partenariat institutionnel n’est actuellement établi.
