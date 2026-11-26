@@ -12,6 +12,6 @@ Indiquer les parcours ou tests réalisés et leur résultat.
 
 ## Relecture
 
-- [ ] Critères d'acceptation vérifiés
+- [ ] Critères d’acceptation vérifiés
 - [ ] Aucun secret ni donnée réelle ajouté
 - [ ] Documentation utile mise à jour
